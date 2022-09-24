@@ -1,0 +1,8 @@
+[package]
+name = "touche"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "touche"
+path = "touche.rs"
